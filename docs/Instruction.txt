@@ -3,3 +3,7 @@
 	This will create a.out compile file.
 3. Now run the compiled file a.out - "./a.out"
 4. Run the sample queries from 'SampleQueries.txt' provided and test
+5. If you want to add new queries, then you need to follow -
+	- Add a new member
+	- Add the relation of the new member with the another member
+	- Connect the new member to the another member
