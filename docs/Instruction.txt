@@ -1,0 +1,5 @@
+1. Code is written is C++
+2. For Linux, compile the 'main.cpp' file with - "g++ -o a.out main.cpp"
+	This will create a.out compile file.
+3. Now run the compiled file a.out - "./a.out"
+4. Run the sample queries from 'SampleQueries.txt' provided and test
