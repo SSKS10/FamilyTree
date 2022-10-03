@@ -1,0 +1,17 @@
+Sample Queries - 
+
+family-tree add Amit Dhakad
+family-tree add relationship father
+family-tree add relationship son
+family-tree connect Amit Dhakad as son of KK Dhakad
+family-tree add relationship father
+family-tree add relationship daughter
+family-tree connect Mithali Dhakad as daughter of KK Dhakad
+family-tree add relationship husband
+family-tree add relationship wife
+family-tree connect Pallvi Dhakad as wife of KK Dhakad
+
+family-tree count sons of KK Dhakad
+family-tree count daughters of KK Dhakad
+family-tree count wives of KK Dhakad
+

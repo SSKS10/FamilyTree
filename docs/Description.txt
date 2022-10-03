@@ -1,0 +1,7 @@
+This project is consist of 3 parts.
+
+1. Person - Details of the person like Name, Gender, Children and Spouses.
+2. FamilyTree - Details of the family tree and its required functioning.
+3. Main - To run the functioning of the family tree.
+
+FamilyTree.inputDecide(string inputString) -> This method will be used to get the desire result based on the input string provided.
